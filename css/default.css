@@ -1,0 +1,10 @@
+body{
+  background-image: url('background.png');
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-color: rgb(119, 53, 0);
+}
+
+*{
+  font-family: 'Hahmlet', serif;
+}
